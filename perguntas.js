@@ -8,7 +8,7 @@ criaCartao(
 criaCartao(
     'Sintomas',
     'Quais são os sintomas?',
-    'A capital da França é Paris'
+    'Paralisia temporária em um lado do corpo após uma convulsão.'
 )
 
 criaCartao(
