@@ -14,12 +14,11 @@ criaCartao(
 criaCartao(
     'Precauções',
     'Pode ser evitada?,
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Não diretamente, mas o controle das convulsões ajuda a reduzir os episódios.'
 )
 
 criaCartao(
     'Tratamento',
     'Como é tratada?',
-    ' Não precisa de tratamento específico, só controlar as convulsões.
-
+    ' Não precisa de tratamento específico, só controlar as convulsões.'
 )
